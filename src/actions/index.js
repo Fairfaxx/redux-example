@@ -1,4 +1,4 @@
-export const INCREMENT = "INCREMENT";
-export const DECREMENT = "DECREMENT";
-export const INCREASE = "INCREASE";
-export const TOGGLE = "TOGGLE";
+// export const INCREMENT = "increment";
+// export const DECREMENT = "decrement";
+// export const INCREASE = "increase";
+// export const TOGGLE = "toggle";
